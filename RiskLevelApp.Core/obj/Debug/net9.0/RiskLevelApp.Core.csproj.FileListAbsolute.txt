@@ -9,3 +9,15 @@ C:\Users\happy\Desktop\CC\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.d
 C:\Users\happy\Desktop\CC\RiskLevelApp.Core\obj\Debug\net9.0\refint\RiskLevelApp.Core.dll
 C:\Users\happy\Desktop\CC\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.pdb
 C:\Users\happy\Desktop\CC\RiskLevelApp.Core\obj\Debug\net9.0\ref\RiskLevelApp.Core.dll
+C:\Users\happy\Desktop\SE\CC\RiskLevelApp.Core\bin\Debug\net9.0\RiskLevelApp.Core.deps.json
+C:\Users\happy\Desktop\SE\CC\RiskLevelApp.Core\bin\Debug\net9.0\RiskLevelApp.Core.dll
+C:\Users\happy\Desktop\SE\CC\RiskLevelApp.Core\bin\Debug\net9.0\RiskLevelApp.Core.pdb
+C:\Users\happy\Desktop\SE\CC\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\happy\Desktop\SE\CC\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.AssemblyInfoInputs.cache
+C:\Users\happy\Desktop\SE\CC\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.AssemblyInfo.cs
+C:\Users\happy\Desktop\SE\CC\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\happy\Desktop\SE\CC\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.sourcelink.json
+C:\Users\happy\Desktop\SE\CC\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.dll
+C:\Users\happy\Desktop\SE\CC\RiskLevelApp.Core\obj\Debug\net9.0\refint\RiskLevelApp.Core.dll
+C:\Users\happy\Desktop\SE\CC\RiskLevelApp.Core\obj\Debug\net9.0\RiskLevelApp.Core.pdb
+C:\Users\happy\Desktop\SE\CC\RiskLevelApp.Core\obj\Debug\net9.0\ref\RiskLevelApp.Core.dll
